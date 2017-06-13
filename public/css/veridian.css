@@ -1,0 +1,46 @@
+
+.img {
+	
+	width: 70em;
+	border: 500em
+}
+
+#fancy-header {
+	
+	text-align: center;
+}
+
+body {
+	
+	background-image: url(/img/vintageScreen.jpg);
+	background-size: 100% 100%;
+
+}
+
+* {
+	
+	font-family: 'Source Code Pro', monospace;
+	color: lime;
+}
+
+#top, #img, #bottom, .img {
+
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#top {
+
+	margin-top: 200px;
+	font-size: 25px;
+}
+
+#middle {
+	margin-left: 200px;
+}
+
+#bottom {
+	margin-bottom: 200px;
+}
